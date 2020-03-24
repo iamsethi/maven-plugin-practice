@@ -45,7 +45,7 @@
                     <argLine>
                         --illegal-access=permit
                     </argLine>
-                    <!--<groups>model</groups>-->
+                    <!--<groups>regression</groups>-->
                     <!--<excludedGroups>regression</excludedGroups>-->
                 </configuration>
             </plugin>
